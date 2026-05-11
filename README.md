@@ -1,6 +1,6 @@
 # Hi 👋, I'm Regan  Lema
 
-## 👨‍💻 Full-Stack Developer
+## 👨‍💻 Full-Stack Developer&Engineer
 I build scalable web and mobile applications using modern technologies.
 
 ### 🚀 Tech Stack
