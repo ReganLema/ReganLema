@@ -5,19 +5,23 @@ I build scalable web and mobile applications using modern technologies.
 
 ### 🚀 Tech Stack
 - Frontend: React, React Native, TypeScript, Tailwind CSS
-- Backend: Node.js, Express.js, REST APIs,Django
-- Databases: MySQL, MongoDB
+- Backend: Node.js, Express.js, REST APIs&GraphQl,Django,Laravel
+- Databases: MySQL, MongoDB, PostgresQl
 - Tools: Git, GitHub, Postman, VS Code
+- Deveops: Docker, Kubernetes, Nginx,Terraform, Ansible
 
 ### 🧠 What I Do
 - Build full-stack applications
-- Design RESTful APIs
+- Design RESTful APIs & GraphQl APIs
 - Implement authentication & authorization
 - Write clean, maintainable code
 
 ### 📂 Featured Projects
 - **m-connect App/Web System** – Agricultural market platform
 - **Smart Healthcare System** – Patient & doctor management system
+- **Affordability & Salary Intelligence Platform -Built a scalable GraphQL-powered platform for salary analysis and cost-of
+living calculations across Tanzania
+
 
 
 ### 📫 Contact Me
