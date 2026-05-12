@@ -8,7 +8,7 @@ I build scalable web and mobile applications using modern technologies.
 - Backend: Node.js, Express.js, REST APIs&GraphQl,Django,Laravel
 - Databases: MySQL, MongoDB, PostgresQl
 - Tools: Git, GitHub, Postman, VS Code
-- DeveOps: Docker, Kubernetes, Nginx,Terraform, Ansible
+- DevOps: Docker, Kubernetes, Nginx,Terraform, Ansible
 
 ### 🧠 What I Do
 - Build full-stack applications
